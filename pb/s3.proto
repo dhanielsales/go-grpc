@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package pb;
+option go_package="tcmedia-grpc/pb";
+
+service S3Service{
+    rpc UploadFile(stream UploadFileRequest) returns (UploadFileResponse) {}
+}
+
+message UploadFileRequest {
+    oneof data {
+        string file_type = 1;
+        bytes chunk_data = 2;
+    };
+}
+
+message UploadFileResponse {
+    string url = 1;
+    uint32 size = 2;
+}
