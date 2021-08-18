@@ -4,6 +4,8 @@ Esse projeto consiste em uma prova de conceito e exemplificação da aplicabilid
 
 ## Rodando a PoC
 
+Para rodar é muito simples, basta vc rodar o server/server.go em um terminal e logo em seguida, rodar o client/client.go.
+
 ## Debug
 
 Caso queira sugerir alterações, é recomendado instalar o `proto` para modificar o contrato de comunicação. A preparação é muito simples, basta seguir os passos abaixo:
