@@ -4,7 +4,7 @@ Esse projeto consiste em uma prova de conceito e exemplificação da aplicabilid
 
 ## Rodando a PoC
 
-Para rodar é muito simples, basta vc rodar o server/server.go em um terminal e logo em seguida, rodar o client/client.go.
+Para rodar é muito simples, basta vc rodar o `server/server.go` em um terminal e logo em seguida, rodar o `client/client.go`.
 
 ## Debug
 
