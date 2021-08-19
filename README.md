@@ -1,4 +1,5 @@
 # PoC gRPC
+Author: [Ivo Freitas]("https://github.com/ivofreitastc") e [Dhaniel Sales]("https://github.com/dhanielsales")
 
 Esse projeto consiste em uma prova de conceito e exemplificação da aplicabilidade do gRPC como modo de comunicação entre o TCNews e o TCMediaAPI.
 
