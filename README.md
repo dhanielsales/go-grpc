@@ -1,5 +1,5 @@
 # PoC gRPC
-Author: [Ivo Freitas]("https://github.com/ivofreitastc") e [Dhaniel Sales]("https://github.com/dhanielsales")
+Author: [Ivo Freitas](https://github.com/ivofreitastc) e [Dhaniel Sales](https://github.com/dhanielsales)
 
 Esse projeto consiste em uma prova de conceito e exemplificação da aplicabilidade do gRPC como modo de comunicação entre o TCNews e o TCMediaAPI.
 
@@ -48,6 +48,6 @@ Atualize seu PATH para que o compilador protoc possa encontrar os plug-ins:
 
 ## Referencias:
 
-- [Preparação gRPC]("https://grpc.io/docs/languages/go/quickstart/#prerequisites")
-- [Proto]("https://developers.google.com/protocol-buffers")
-- [Instalação Proto]("https://grpc.io/docs/protoc-installation/")
+- [Preparação gRPC](https://grpc.io/docs/languages/go/quickstart/#prerequisites)
+- [Proto](https://developers.google.com/protocol-buffers)
+- [Instalação Proto](https://grpc.io/docs/protoc-installation)
