@@ -1,5 +1,5 @@
 # PoC gRPC
-Esse projeto consiste em uma prova de conceito e exemplificação da aplicabilidade do gRPC como modo de comunicação entre o TCNews e o TCMediaAPI.
+Esse projeto consiste em uma prova de conceito e exemplificação da aplicabilidade do gRPC como modo de comunicação entre dois serviços.
 
 ## Rodando a PoC
 
